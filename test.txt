@@ -6,3 +6,4 @@ This is my fifth git in macmini
 I am macbook
 macbook again
 macbook also
+mac mini go
